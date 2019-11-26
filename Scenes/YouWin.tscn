@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="YouWin" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+margin_top = 200.0
+margin_right = 1020.0
+margin_bottom = 214.0
+text = "You win !"
+align = 1
